@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Brush Font 1';
+	src: url('../fonts/brush_font_1.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/brush_font_1.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/brush_font_1.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/brush_font_1.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/brush_font_1.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/brush_font_1.svg#brush_font_1') format('svg'); /* Chrome < 4, Legacy iOS */
+}
